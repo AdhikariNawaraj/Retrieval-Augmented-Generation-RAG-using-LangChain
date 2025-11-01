@@ -26,15 +26,25 @@ It is suitable for use cases such as:
 - Automated PDF and policy document analysis
 
 **Tech Stack**:
+
+
 <img width="456" height="302" alt="image" src="https://github.com/user-attachments/assets/928b0bc0-758d-47fb-8fbc-ce00ec06d3f4" />
 
 **Repository Structure**:
+
+
 ├── document.ipynb                # Main end-to-end RAG pipeline
+
 ├── pdf_loader.ipynb              # PDF ingestion and text extraction
+
 ├── RAG with Langchain.ipynb      # RAG implementation using LangChain
+
 ├── requirements.txt              # Python dependencies
+
 ├── assets/
+
 │     └── rag_architecture.png    # System architecture diagram
+
 └── README.md                     # Project documentation
 
 
