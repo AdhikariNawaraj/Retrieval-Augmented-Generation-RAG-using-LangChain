@@ -33,19 +33,19 @@ It is suitable for use cases such as:
 **Repository Structure**:
 
 
-├── document.ipynb                # Main end-to-end RAG pipeline
+├── document.ipynb                        # Main end-to-end RAG pipeline
 
-├── pdf_loader.ipynb              # PDF ingestion and text extraction
+├── pdf_loader.ipynb                      # PDF ingestion and text extraction
 
-├── RAG with Langchain.ipynb      # RAG implementation using LangChain
+├── RAG with Langchain.ipynb              # RAG implementation using LangChain
 
-├── requirements.txt              # Python dependencies
+├── requirements.txt                      # Python dependencies
 
 ├── assets/
 
-│     └── rag_architecture.png    # System architecture diagram
+│     └── rag_architecture.png           # System architecture diagram
 
-└── README.md                     # Project documentation
+└── README.md                            # Project documentation
 
 
 **Reference**:
